@@ -1,0 +1,71 @@
+{
+  "links": [
+    {
+      "username": "admin",
+      "platform": "TikTok",
+      "timestamp": "2025-02-24T18:27:38.157Z",
+      "url": "65445454545454545884",
+      "groupInfo": {
+        "name": "MemeX Community",
+        "id": "123456789"
+      },
+      "rewards": {
+        "add": 10,
+        "support": 5
+      },
+      "reports": [],
+      "expiryDate": "2025-03-11T18:27:38.157Z",
+      "supports": 0
+    },
+    {
+      "username": "@johndoe",
+      "platform": "TikTok",
+      "timestamp": "2025-02-23T12:34:09.778Z",
+      "url": "54654646544654654",
+      "groupInfo": {
+        "name": "MemeX Community",
+        "id": "123456789"
+      },
+      "rewards": {
+        "add": 10,
+        "support": 5
+      },
+      "reports": [],
+      "expiryDate": "2025-03-10T12:34:09.778Z"
+    },
+    {
+      "username": "@johndoe",
+      "platform": "Twitter",
+      "timestamp": "2025-02-23T12:32:48.631Z",
+      "url": "https://x.com/drarjantit/status/1893368330775675074",
+      "groupInfo": {
+        "name": "MemeX Community",
+        "id": "123456789"
+      },
+      "rewards": {
+        "add": 10,
+        "support": 5
+      },
+      "reports": [],
+      "expiryDate": "2025-03-10T12:32:48.631Z"
+    },
+    {
+      "username": "@johndoe",
+      "platform": "Twitter",
+      "timestamp": "2025-02-23T12:24:09.399Z",
+      "url": "https://x.com/Ucan_Coin/status/1893607664099193058",
+      "groupInfo": {
+        "name": "MemeX Community",
+        "id": "123456789"
+      },
+      "rewards": {
+        "add": 10,
+        "support": 5
+      },
+      "reports": [
+        "@johndoe"
+      ],
+      "expiryDate": "2025-03-10T12:24:09.399Z"
+    }
+  ]
+}
